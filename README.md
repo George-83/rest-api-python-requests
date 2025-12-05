@@ -72,4 +72,3 @@ To install all dependencies:
 
 ## 👤 Author - Georgi Bordukov, Senior Software QA Engineer
 * LinkedIn profile - https://www.linkedin.com/in/george-bordukov/
-* This project was developed as part of a technical assessment for a QA position, using Python, Pytest, and Requests
