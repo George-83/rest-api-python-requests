@@ -1,4 +1,4 @@
-# REST API Test Project №1
+# REST API Project Python Requests
 
 This project provides automated tests for the public API [https://reqres.in](https://reqres.in), built using **Python**, **Pytest**, and the **Requests** library.
 
