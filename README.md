@@ -69,6 +69,3 @@ To install all dependencies:
 * Randomized test data ensures uniqueness on POST requests
 * JSON schema files live in data/json_schemas/
 * Project is designed to be scalable and extendable
-
-## 👤 Author - Georgi Bordukov, Senior Software QA Engineer
-* LinkedIn profile - https://www.linkedin.com/in/george-bordukov/
