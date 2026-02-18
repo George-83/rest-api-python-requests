@@ -69,3 +69,7 @@ To install all dependencies:
 * Randomized test data ensures uniqueness on POST requests
 * JSON schema files live in data/json_schemas/
 * Project is designed to be scalable and extendable
+
+## 📜 License
+
+This project is released into the public domain under The Unlicense. You are free to use, copy, modify, and share this code.
